@@ -33,8 +33,11 @@ PS C:\> .\remediation_WN11-AU-000050.ps1
 ### Group Policy Configuration
 ![Audit Process Creation Properties](AuditProcessCreationProperties.png)
 
-### Verification
+### Manual Verification (Command Line)
 ![Solution Verification](gpudate_Solution_Verification.png)
+
+### PowerShell Automated Remediation Success
+![PowerShell Success](WN11-AU-000050_PowerShell_Success.png)
 
 ## Testing Information
 - **Tested By**: Symone-Marie Priester
@@ -47,7 +50,8 @@ PS C:\> .\remediation_WN11-AU-000050.ps1
 ```
 ├── remediation_WN11-AU-000050.ps1           # PowerShell remediation script
 ├── AuditProcessCreationProperties.png       # Group Policy configuration
-├── gpudate_Solution_Verification.png        # Verification screenshot
+├── gpudate_Solution_Verification.png        # Manual verification screenshot
+├── WN11-AU-000050_PowerShell_Success.png    # PowerShell remediation success
 └── README.md                                # This file
 ```
 
