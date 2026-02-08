@@ -34,7 +34,7 @@ PS C:\> .\remediation_WN11-AU-000050.ps1
 ![Audit Process Creation Properties](AuditProcessCreationProperties.png)
 
 ### Verification
-![Solution Verification](gpudate Solution Verification.png)
+![Solution Verification](gpudate_Solution_Verification.png)
 
 ## Testing Information
 - **Tested By**: Symone-Marie Priester
